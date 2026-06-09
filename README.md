@@ -309,10 +309,6 @@ This project demonstrates how **Data Science and Machine Learning** can be lever
 - Data Scientist | Machine Learning Enthusiast | Data Analyst
 - Python | SQL | Power BI | Machine Learning | Deep Learning
 
-### Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/your-profile
-- GitHub: https://github.com/your-github-username
 
 ---
 
